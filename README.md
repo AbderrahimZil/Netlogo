@@ -5,5 +5,5 @@ In this project I aimed to model the dynamics of a Play-to-Earn game "BombCrypto
 
 In the Treasure Hunt mode the players manage a group of Bombers programmed to search for BCOIN. Bombers have different stats (inventory|stamina|power|scoop|speed)
 
-![](./assets/images/the_Real_System.png)
+![](./assets/images/the_Real_System.PNG)
 
