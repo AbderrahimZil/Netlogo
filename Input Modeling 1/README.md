@@ -5,6 +5,8 @@ In this section, we walk through the phases of Input Modeling adopted in order t
 
 ### The treasure chest box
 
-Boxes in the adventure field (the map) appear at different rarities and different numbers.
+Boxes in the adventure field (the map) appear at different rarities and different numbers. Our goal in this section is to find the underlying distribution for boxes counts
 
 ![](./assets/images/table_mpl.png)
+
+![](./assets/images/cullen_fray.png)
