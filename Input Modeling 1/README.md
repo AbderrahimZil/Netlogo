@@ -7,4 +7,4 @@ In this section, we walk through the phases of Input Modeling adopted to come up
 
 Boxes in the adventure field (the map) appear at different rarities and different numbers.
 
-![](./assets/images/table_mpl.jpeg)
+![](./assets/images/table_mpl.png)
