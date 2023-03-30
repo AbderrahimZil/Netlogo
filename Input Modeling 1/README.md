@@ -1,7 +1,7 @@
 ### GiGo principle
 
 GiGo principle is a common concept in computer science stating that the quality of output is determined by the quality of input.
-In this section, we walk through the phases of Input Modeling adopted to come up with approximations that best represent the system.
+In this section, we walk through the phases of Input Modeling adopted in torder to to come up with approximations that best represent the system.
 
 ### The treasure chest box
 
