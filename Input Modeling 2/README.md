@@ -1,9 +1,9 @@
 ## Reward mechanism
 <p align="center">
-  <img width="460" height="300" src="https://github.com/AbderrahimZil/BombCrypto-Netlogo/blob/ff1c77478b81e4aed3e9dc517e93f6d3b42cb520/Input%20Modeling%202/assets/images/reward_mechanism.png">
+  <img src="./assets/images/reward_mechanism.png">
 </p>
 
 ## Reawrd per box color
 <p align="center">
-  <img width="460" height="300" src="https://github.com/AbderrahimZil/BombCrypto-Netlogo/blob/ff1c77478b81e4aed3e9dc517e93f6d3b42cb520/Input%20Modeling%202/assets/images/reward~bxtype.png">
+  <img src="./assets/images/reward~bxtype.png">
 </p>
