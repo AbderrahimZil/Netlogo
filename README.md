@@ -1,5 +1,5 @@
 
-In this project I aimed to model and simulate a Play-to-Earn game "BombCrypto" using an Agent Based Approach.
+In this project we aimed to model and simulate a Play-to-Earn game "BombCrypto" using an Agent Based Approach.
 
 ## the game
 
