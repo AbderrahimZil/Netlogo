@@ -8,6 +8,6 @@ In this section, we walk through the phases of Input Modeling adopted in order t
 Boxes in the adventure field (the map) appear at different rarities and different numbers. Our goal in this section is to find the underlying distributions for each box counts. 
 For a suitable Pearson distribution
 
-![](./assets/images/table_mpl.png)
+![](../assets/images/table_mpl.png)
 
-![](./assets/images/cullen_fray.png)
+![](../assets/images/cullen_fray.png)
