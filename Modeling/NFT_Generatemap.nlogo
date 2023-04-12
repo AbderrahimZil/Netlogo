@@ -1,13 +1,8 @@
-;; here we change the model
-;;
-;; the problem of unupdated targets is still persisting
-;; the attract is a metric to show the importance of the box (the type)
-;; can be used as well to update the target? of a node once the box is destroyed
+;; use network extension to create the map
 
 extensions [ nw ]
 breed [ nodes node ]
 breed [ houses house ]
-breed [ bombers bomber ]
 
 nodes-own [ wall?
             target?
@@ -68,7 +63,6 @@ to furnish
 end
 
 to add-houses
-;  random-float 1
   ask n-of n_houses nodes with [ wall? = false ][
     set occupied? true
     hatch 1 [ ;; sprout is for patch
@@ -99,8 +93,6 @@ to add-houses
       set value 12 ]
   ]
   ask nodes with [occupied? = true] [
-    ;; always make sure the attributes are initialized  ; set targ targ + [value] of houses-at [xcor] of myself [ycor] of myself
-;    ask link-neighbors with [wall? = false] [set targ targ + 1]
     ask link-neighbors with [wall? = false and occupied? = false] [set target? true set targ targ + 1]
     ask my-links [die]
   ]
