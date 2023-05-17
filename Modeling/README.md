@@ -7,5 +7,5 @@
 ## Search Mechanism
 
 <p align="center">
-  <img src="../assets/images/isovist.PNG">
+  <img src="../assets/images/isovist.png">
 </p>
