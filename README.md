@@ -7,5 +7,5 @@ In the Treasure Hunt mode the players manage a group of Bombers programmed to de
 
 After capturing the game dynamics and the reward mecanism, an Agent Based Model of the game was build and Input Modeling was carried out to adequately represent the input data.
 
-![](./assets/images/the_Real_System.PNG)
+![](./assets/images/Sim.gif)
 
